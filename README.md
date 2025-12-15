@@ -22,3 +22,6 @@
 
 ## 📚 Reference
 - [GitHub docs](https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/sharing-workflows-with-your-organization)
+
+## 🔎 GitHub Code Search
+- [GitHub Code Search Syntax Cheat Sheet](./SEARCH_SYNTAX_CHEAT_SHEET.md)
